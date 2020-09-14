@@ -1,0 +1,12 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.div1{
+border: 0px solid gray ;
+background-color: wheat;
+    height: 50vh;
+    width: 100vw;
+    
+    
+}
